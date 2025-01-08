@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amila Isuru</h1>
-<h3 align="center">Passionate About Mobile Application Development</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an IT student at SLIIT, passionate about coding, technology, and learning new skills. I'm currently focusing on improving my knowledge in software development, web technologies, and data science.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amilaisuru&label=Profile%20views&color=0e75b6&style=flat" alt="amilaisuru" /> </p>
 
